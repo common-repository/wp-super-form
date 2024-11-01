@@ -1,0 +1,19 @@
+.wpsf-form-fld{
+	display:inline-block;
+	margin-bottom: 25px;
+	width: 100%;
+}
+.wpsf-form-fld span {
+    display: block;
+    font-size: 16px;
+    line-height: 1.2;
+    font-weight: 400;
+    margin: 0 0 5px 0;
+}
+.wpsf-rating-front-div{
+	margin-bottom: 25px;
+}
+.wpsf-rv-form-btn{
+    padding:10px;
+    text-align: center;
+}
